@@ -1,0 +1,1880 @@
+{
+  "numberOfFound": 2692,
+  "content": [
+    {
+      "id": "00000000004J0",
+      "title": "Gofret Rulo 25 li 250 gr Caferoll Elvan",
+      "brand": "Elvan",
+      "imageUrl": "https://api.marketfiyati.org.tr/api/v1/resources/dummy/dummy-small.svg/dummy-big.svg",
+      "categories": [
+        "Meyve Ve Sebzeler",
+        "Rulo Gofret",
+        "Rulo Gofr"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "hakmar-5200",
+          "depotName": "Valide  Üsküdar",
+          "price": 75,
+          "marketAdi": "hakmar",
+          "percentage": 0,
+          "longitude": 29.031761,
+          "latitude": 41.018707,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000X9B",
+      "title": "Nestle Damak Ala %25 Antep Fıstıklı 30 Gr",
+      "brand": "Nestle",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1857482.jpg",
+      "categories": [
+        "Gıda",
+        "Sekerleme",
+        "Bi̇sküvi̇, Kek Ve Mamalar",
+        "Çikolata Kaplamalı Gofretler",
+        "Atıştırmalık",
+        "Bisküvi Ve Çikolata",
+        "Çi̇kolatalı Gofret",
+        "Barlar",
+        "Çi̇kolata Kaplamalı Gofretler",
+        "Gofretler",
+        "Kuru Gıdalar",
+        "Çikolata Kaplamalılar",
+        "Çikolatalı Gofret",
+        "Kaplamalı Gofretler"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "a101-5407",
+          "depotName": "Selimiye Üsküdar Istanbul",
+          "price": 31,
+          "marketAdi": "a101",
+          "percentage": 0,
+          "longitude": 29.018433,
+          "latitude": 41.011513,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "sok-1017",
+          "depotName": "Selimiye",
+          "price": 31,
+          "marketAdi": "sok",
+          "percentage": 0,
+          "longitude": 29.01797,
+          "latitude": 41.010906,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "migros-8163",
+          "depotName": "Mjet Kadıköy Rıhtım Istanbul",
+          "price": 31.5,
+          "marketAdi": "migros",
+          "percentage": 1.6129031,
+          "longitude": 29.025434,
+          "latitude": 40.993183,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "carrefour-5411",
+          "depotName": "Istanbul Kadıköy Moda Cad",
+          "price": 31.9,
+          "marketAdi": "carrefour",
+          "percentage": 2.9032245,
+          "longitude": 29.025234,
+          "latitude": 40.987255,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000VDF",
+      "title": "Kek Sade 30 gr Torku Favorimo",
+      "brand": "Torku",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_469268.jpg",
+      "categories": [
+        "Bi̇sküvi̇, Kek Ve Mamalar",
+        "Kekler",
+        "Meyveli Kekler"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "a101-F113",
+          "depotName": "Ahmediye Üsküdar Istanbul",
+          "price": 4,
+          "marketAdi": "a101",
+          "percentage": 0,
+          "longitude": 29.017359,
+          "latitude": 41.013336,
+          "indexTime": "16.02.2025 12:07"
+        }
+      ]
+    },
+    {
+      "id": "0000000000RHA",
+      "title": "Cips Patates Kabuklu Sade 145 gr Master",
+      "brand": "Chips Master",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1754057.jpg",
+      "categories": [
+        "Patates Cipsi",
+        "Cipsler",
+        "Sıvı İçecekler Ve Ci̇ps"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "a101-4217",
+          "depotName": "Rıhtım Kadıköy Istanbul",
+          "price": 25,
+          "marketAdi": "a101",
+          "percentage": 0,
+          "longitude": 29.0264,
+          "latitude": 40.9941,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "00000000011C3",
+      "title": "Cips Patates 193 gr Lays&ruffles Orginal",
+      "brand": "Lays",
+      "imageUrl": "https://api.marketfiyati.org.tr/api/v1/resources/dummy/dummy-small.svg/dummy-big.svg",
+      "categories": [
+        "Patates Cipsi",
+        "Cipsler",
+        "Sıvı İçecekler Ve Ci̇ps"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "a101-B317",
+          "depotName": "Çiçekçi Üsküdar Istanbul",
+          "price": 40,
+          "marketAdi": "a101",
+          "percentage": 0,
+          "longitude": 29.014162,
+          "latitude": 41.011745,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000324",
+      "title": "Bisküvi Portakal Jöleli 114 Gr Süsse",
+      "brand": "Susse",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1432208.jpg",
+      "categories": [
+        "0701-bi̇sküvi̇",
+        "070104-kaplamalı Bisküvi",
+        "07-bisküvi-çikolata."
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "bim-Q061",
+          "depotName": "Rıhtım kadıköy",
+          "price": 9.5,
+          "marketAdi": "bim",
+          "percentage": 0,
+          "longitude": 29.022757,
+          "latitude": 40.988914,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000GXG",
+      "title": "Biscolata Nirvana Fındıklı Gofret 26 gr",
+      "brand": "Şölen",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1254262.jpg",
+      "categories": [
+        "Kuru Gıdalar",
+        "Gıda",
+        "Sade/klasık Bısküvı",
+        "Bi̇sküvi̇ler"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "carrefour-5254",
+          "depotName": "Istanbul Üsküdar Salacak Mını",
+          "price": 11.2,
+          "marketAdi": "carrefour",
+          "percentage": 0,
+          "longitude": 29.011852,
+          "latitude": 41.018646,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000ZSB",
+      "title": "Çikolata Limon Dolgulu 54 gr Ülker Amore",
+      "brand": "Ülker",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_2003549.jpg",
+      "categories": [
+        "Çi̇kolata Ve Şekerlemeler",
+        "Tablet/stıck Çikolat",
+        "Çikolatalar"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "a101-F113",
+          "depotName": "Ahmediye Üsküdar Istanbul",
+          "price": 25,
+          "marketAdi": "a101",
+          "percentage": 0,
+          "longitude": 29.017359,
+          "latitude": 41.013336,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000TPK",
+      "title": "Çikolata Beyaz 64 gr Togo Ottimo",
+      "brand": "Beyoğlu",
+      "imageUrl": "https://api.marketfiyati.org.tr/api/v1/resources/dummy/dummy-small.svg/dummy-big.svg",
+      "categories": [
+        "Çi̇kolata Ve Şekerlemeler",
+        "Tablet/stıck Çikolat",
+        "Çikolatalar"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "a101-F113",
+          "depotName": "Ahmediye Üsküdar Istanbul",
+          "price": 10,
+          "marketAdi": "a101",
+          "percentage": 0,
+          "longitude": 29.017359,
+          "latitude": 41.013336,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000YMF",
+      "title": "Haribo Funmix 62 Gr",
+      "brand": "Haribo",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1176212.jpg",
+      "categories": [
+        "Şekerleme-sakız",
+        "Şekerleme",
+        "Gıda",
+        "Atıştırmalık",
+        "Yumuşak Şekerler",
+        "Yumuşak Şeker",
+        "Şekerleme Ürünleri̇"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "sok-1017",
+          "depotName": "Selimiye",
+          "price": 11.5,
+          "marketAdi": "sok",
+          "percentage": 0,
+          "longitude": 29.01797,
+          "latitude": 41.010906,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000PW8",
+      "title": "Kent Boringer puding Kakaolu 104 Gr",
+      "brand": "Kent Borınger",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1401098.jpg",
+      "categories": [
+        "Tatlı/hamur Islerı",
+        "Kuru Gıdalar",
+        "Gıda",
+        "Tatlılar"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "carrefour-5254",
+          "depotName": "Istanbul Üsküdar Salacak Mını",
+          "price": 18.5,
+          "marketAdi": "carrefour",
+          "percentage": 0,
+          "longitude": 29.011852,
+          "latitude": 41.018646,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "00000000010OH",
+      "title": "Gofret Fındık Kremalı 39 gr Xroll Çok Kat",
+      "brand": "Xroll",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1442500.jpg",
+      "categories": [
+        "Gofretler",
+        "Bi̇sküvi̇, Kek Ve Mamalar",
+        "Kaplamasız Gofretler"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "a101-4217",
+          "depotName": "Rıhtım Kadıköy Istanbul",
+          "price": 5,
+          "marketAdi": "a101",
+          "percentage": 0,
+          "longitude": 29.0264,
+          "latitude": 40.9941,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "000000000054A",
+      "title": "Antep Fıstığı 150 Gr Simbat",
+      "brand": "Simbat",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1980505.jpg",
+      "categories": [
+        "05-kuruyemiş",
+        "0502-kuruyemi̇ş",
+        "050201-kuruyemiş"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "bim-Q061",
+          "depotName": "Rıhtım kadıköy",
+          "price": 99.5,
+          "marketAdi": "bim",
+          "percentage": 0,
+          "longitude": 29.022757,
+          "latitude": 40.988914,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000OYC",
+      "title": "List Nuts Kavrulmuş Tuzlu Yer Fıstığı 150 gr",
+      "brand": "Lıst Flavours",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1654654.jpg",
+      "categories": [
+        "Kahvaltılık Ve Çerez",
+        "Fıstık",
+        "Çerez",
+        "Kuruyemi̇ş"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "migros-1991",
+          "depotName": "Çiçekçi M Migros",
+          "price": 41.95,
+          "marketAdi": "migros",
+          "percentage": 0,
+          "longitude": 29.01442,
+          "latitude": 41.01184,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "00000000011BE",
+      "title": "Gofret Cornet Süt Kremalı 25 gr Ozmo",
+      "brand": "Şölen",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_848957.jpg",
+      "categories": [
+        "Gofretler",
+        "Bi̇sküvi̇, Kek Ve Mamalar",
+        "Kaplamasız Gofretler"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "a101-5407",
+          "depotName": "Selimiye Üsküdar Istanbul",
+          "price": 10,
+          "marketAdi": "a101",
+          "percentage": 0,
+          "longitude": 29.018433,
+          "latitude": 41.011513,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "00000000012BJ",
+      "title": "Bar Çikolata Nuga Karamel 20 gr Eti Remixx",
+      "brand": "Eti",
+      "imageUrl": "https://api.marketfiyati.org.tr/api/v1/resources/dummy/dummy-small.svg/dummy-big.svg",
+      "categories": [
+        "Çi̇kolata Ve Şekerlemeler",
+        "Bar Çikolatalar",
+        "Çikolatalar"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "a101-5407",
+          "depotName": "Selimiye Üsküdar Istanbul",
+          "price": 6.5,
+          "marketAdi": "a101",
+          "percentage": 0,
+          "longitude": 29.018433,
+          "latitude": 41.011513,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000RVO",
+      "title": "Yumuşak Şeker Minies Ekşi Çilek 10 gr Jox",
+      "brand": "Jox",
+      "imageUrl": "https://api.marketfiyati.org.tr/api/v1/resources/dummy/dummy-small.svg/dummy-big.svg",
+      "categories": [
+        "Yumuşak Şekerler",
+        "Çi̇kolata Ve Şekerlemeler",
+        "Şekerlemeler"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "a101-B317",
+          "depotName": "Çiçekçi Üsküdar Istanbul",
+          "price": 3.5,
+          "marketAdi": "a101",
+          "percentage": 0,
+          "longitude": 29.014162,
+          "latitude": 41.011745,
+          "indexTime": "16.02.2025 12:07"
+        }
+      ]
+    },
+    {
+      "id": "0000000000MD2",
+      "title": "Eti Pizza Fişek Peynirli 63 gr",
+      "brand": "Etı",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1104693.jpg",
+      "categories": [
+        "Kuru Gıdalar",
+        "Gıda",
+        "Tuzlu Biskuviler",
+        "Bi̇sküvi̇ler"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "carrefour-5358",
+          "depotName": "Istanbul Kadıköy Rıhtım Reşıt",
+          "price": 11.1,
+          "marketAdi": "carrefour",
+          "percentage": 0,
+          "longitude": 29.02671,
+          "latitude": 40.99276,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000RY5",
+      "title": "Ülker Olala Bold Bar Kek 43g",
+      "brand": "Ülker",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1523673.jpg",
+      "categories": [
+        "Kek",
+        "Tatlı Bisküvi Kek Gofret",
+        "Gıda",
+        "Atıştırmalık",
+        "Bisküvi Ve Çikolata",
+        "Bi̇sküvi̇-kek-gofret-çi̇kolata-ci̇ps-kgevrek",
+        "Mini Kek"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "tarim_kredi-5022",
+          "depotName": "Istanbul Kadıköy Market",
+          "price": 16.9,
+          "marketAdi": "tarim_kredi",
+          "percentage": 0,
+          "longitude": 29.04356,
+          "latitude": 40.9887,
+          "indexTime": "16.02.2025 12:07"
+        },
+        {
+          "depotId": "migros-1991",
+          "depotName": "Çiçekçi M Migros",
+          "price": 17.5,
+          "marketAdi": "migros",
+          "percentage": 3.5502982,
+          "longitude": 29.01442,
+          "latitude": 41.01184,
+          "indexTime": "16.02.2025 12:07"
+        }
+      ]
+    },
+    {
+      "id": "0000000000RV0",
+      "title": "Bar Hindistan cevizli Bumba 32 gr Wanted Eti",
+      "brand": "Eti",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_69155.jpg",
+      "categories": [
+        "Kuru Gıdalar",
+        "Gıda",
+        "Sekerleme",
+        "Bar Ve Kaplamalar",
+        "Atıştırmalık",
+        "Barlar",
+        "Bi̇sküvi̇-kek-gofret-çi̇kolata-ci̇ps-kgevrek",
+        "Bisküvi,şekerleme,mamalar Ve Sağlık Ürün",
+        "Bar Ve Ka",
+        "Çikolata Kaplamalılar"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "carrefour-5358",
+          "depotName": "Istanbul Kadıköy Rıhtım Reşıt",
+          "price": 12.9,
+          "marketAdi": "carrefour",
+          "percentage": 0,
+          "longitude": 29.02671,
+          "latitude": 40.99276,
+          "indexTime": "16.02.2025 12:07"
+        },
+        {
+          "depotId": "tarim_kredi-5022",
+          "depotName": "Istanbul Kadıköy Market",
+          "price": 14.9,
+          "marketAdi": "tarim_kredi",
+          "percentage": 15.503876,
+          "longitude": 29.04356,
+          "latitude": 40.9887,
+          "indexTime": "16.02.2025 12:07"
+        },
+        {
+          "depotId": "hakmar-5200",
+          "depotName": "Valide  Üsküdar",
+          "price": 15,
+          "marketAdi": "hakmar",
+          "percentage": 16.279074,
+          "longitude": 29.031761,
+          "latitude": 41.018707,
+          "indexTime": "16.02.2025 12:07"
+        }
+      ]
+    },
+    {
+      "id": "00000000002P4",
+      "title": "Yumuşak Şeker Marshmallow 70 Gr Bebeto",
+      "brand": "Bebeto",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1450123.jpg",
+      "categories": [
+        "Yumuşak Ş",
+        "0706-şekerlemeler",
+        "Yumuşak Şekerler",
+        "Bisküvi,şekerleme,mamalar Ve Sağlık Ürün",
+        "070601-karışık Şekerleme",
+        "07-bisküvi-çikolata."
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "hakmar-5200",
+          "depotName": "Valide  Üsküdar",
+          "price": 16.5,
+          "marketAdi": "hakmar",
+          "percentage": 0,
+          "longitude": 29.031761,
+          "latitude": 41.018707,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "bim-Q061",
+          "depotName": "Rıhtım kadıköy",
+          "price": 16.5,
+          "marketAdi": "bim",
+          "percentage": 0,
+          "longitude": 29.022757,
+          "latitude": 40.988914,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000Q48",
+      "title": "Hazz Çıtır Kady.ant.fıst.dolg.sütlü Dubaı Çik.190g",
+      "brand": "Hazz",
+      "imageUrl": "https://api.marketfiyati.org.tr/api/v1/resources/dummy/dummy-small.svg/dummy-big.svg",
+      "categories": [
+        "Tablet Çi̇kolata",
+        "Bisküvi Ve Çikolata",
+        "Çikolata",
+        "Sütlü Tablet Çikolata"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "migros-1991",
+          "depotName": "Çiçekçi M Migros",
+          "price": 244.9,
+          "marketAdi": "migros",
+          "percentage": 0,
+          "longitude": 29.01442,
+          "latitude": 41.01184,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000T2L",
+      "title": "Çizi Çıtır Tulum peyniri & közbiber Süper Boy 120 gr",
+      "brand": "Ülker",
+      "imageUrl": "https://reimg-carrefour.mncdn.com/mnresize/600/600/productimage/30425873/30425873_0_MC/8851506528306_1685446178761.jpg",
+      "categories": [
+        "Krakerler",
+        "Kuru Gıdalar",
+        "Gıda",
+        "Tuzlu Biskuviler",
+        "Kahvaltılık Ve Çerez",
+        "Bisküvi,şekerleme,mamalar Ve Sağlık Ürün",
+        "Pelet Ve Diğer Cips",
+        "Cips",
+        "Bi̇sküvi̇ler",
+        "Ci̇ps"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "hakmar-5200",
+          "depotName": "Valide  Üsküdar",
+          "price": 39.5,
+          "marketAdi": "hakmar",
+          "percentage": 0,
+          "longitude": 29.031761,
+          "latitude": 41.018707,
+          "indexTime": "16.02.2025 12:07"
+        },
+        {
+          "depotId": "migros-3296",
+          "depotName": "Kadıköy Caferağa M Migros",
+          "price": 40,
+          "marketAdi": "migros",
+          "percentage": 1.2658228,
+          "longitude": 29.02289,
+          "latitude": 40.98982,
+          "indexTime": "16.02.2025 12:07"
+        },
+        {
+          "depotId": "carrefour-5358",
+          "depotName": "Istanbul Kadıköy Rıhtım Reşıt",
+          "price": 40.5,
+          "marketAdi": "carrefour",
+          "percentage": 2.5316455,
+          "longitude": 29.02671,
+          "latitude": 40.99276,
+          "indexTime": "16.02.2025 12:07"
+        }
+      ]
+    },
+    {
+      "id": "0000000000SRT",
+      "title": "Cosby Fun Sürpriz Yumurta 20 gr",
+      "brand": "Cosby",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1228233.jpg",
+      "categories": [
+        "Atıştırmalık",
+        "Çikolata",
+        "Oyuncaklı Çikolata",
+        "070401-çikolatalr",
+        "07-bisküvi-çikolata.",
+        "Çi̇kolata",
+        "0704-çi̇k.ve Çi̇k.barlar"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "bim-Q061",
+          "depotName": "Rıhtım kadıköy",
+          "price": 15,
+          "marketAdi": "bim",
+          "percentage": 0,
+          "longitude": 29.022757,
+          "latitude": 40.988914,
+          "indexTime": "16.02.2025 12:07"
+        },
+        {
+          "depotId": "sok-1017",
+          "depotName": "Selimiye",
+          "price": 18.5,
+          "marketAdi": "sok",
+          "percentage": 23.333334,
+          "longitude": 29.01797,
+          "latitude": 41.010906,
+          "indexTime": "16.02.2025 12:07"
+        }
+      ]
+    }
+  ],
+  "facetMap": {
+    "sub_category": [
+      {
+        "name": "Kaplamasız Gofretler",
+        "count": 342
+      },
+      {
+        "name": "Çikolatalar",
+        "count": 297
+      },
+      {
+        "name": "Un Ve Unlu Mamuller",
+        "count": 158
+      },
+      {
+        "name": "Bebe Bisküvisi",
+        "count": 154
+      },
+      {
+        "name": "Şekerlemeler",
+        "count": 116
+      },
+      {
+        "name": "Kremalı Bisküvi",
+        "count": 111
+      },
+      {
+        "name": "Kekler",
+        "count": 109
+      },
+      {
+        "name": "Tahıl Patlağı",
+        "count": 89
+      },
+      {
+        "name": "Reçetesiz Sağlık Mamulleri",
+        "count": 87
+      },
+      {
+        "name": "Kaplamalı Gofretler",
+        "count": 86
+      },
+      {
+        "name": "Dolgulu Kekler",
+        "count": 79
+      },
+      {
+        "name": "Ev Tipi Ürünler",
+        "count": 75
+      },
+      {
+        "name": "Cipsler",
+        "count": 66
+      },
+      {
+        "name": "Kuruyemişler",
+        "count": 59
+      },
+      {
+        "name": "Aromalı Sakızlar",
+        "count": 57
+      },
+      {
+        "name": "Kuru Meyve",
+        "count": 56
+      },
+      {
+        "name": "Fındık",
+        "count": 53
+      },
+      {
+        "name": "Kek Süt Dolgulu",
+        "count": 53
+      },
+      {
+        "name": "Sade Bisküvi",
+        "count": 47
+      },
+      {
+        "name": "Kraker Normal",
+        "count": 45
+      },
+      {
+        "name": "Sütlü Tatlı",
+        "count": 43
+      },
+      {
+        "name": "Bakliyat Ve Kuru Gıdalar",
+        "count": 41
+      },
+      {
+        "name": "Kurabiye",
+        "count": 38
+      },
+      {
+        "name": "Ay Çekirdeği",
+        "count": 37
+      },
+      {
+        "name": "Kakaolu Bisküvi",
+        "count": 37
+      },
+      {
+        "name": "Kremalar",
+        "count": 33
+      },
+      {
+        "name": "Meyveli Yoğurt",
+        "count": 33
+      },
+      {
+        "name": "Sert Şekerler",
+        "count": 30
+      },
+      {
+        "name": "Şekerli Bisküvi",
+        "count": 29
+      },
+      {
+        "name": "Meyve",
+        "count": 25
+      },
+      {
+        "name": "Geri Kazanım",
+        "count": 19
+      },
+      {
+        "name": "Dondurma Ve Dondurulmuş Ürünler",
+        "count": 18
+      },
+      {
+        "name": "Tatlılar",
+        "count": 17
+      },
+      {
+        "name": "Kokteyl",
+        "count": 13
+      },
+      {
+        "name": "Antep Fıstığı",
+        "count": 11
+      },
+      {
+        "name": "Kuru Üzüm",
+        "count": 11
+      },
+      {
+        "name": "Puding Tatlı",
+        "count": 11
+      },
+      {
+        "name": "Dondurulmuş Ürünler",
+        "count": 10
+      },
+      {
+        "name": "Kürdan-karıştırıcı",
+        "count": 9
+      },
+      {
+        "name": "Şerbetli Tatlı",
+        "count": 9
+      },
+      {
+        "name": "Meyveli Kekler",
+        "count": 8
+      },
+      {
+        "name": "Iç Ayçekirdeği",
+        "count": 7
+      },
+      {
+        "name": "Konserve Ve Baharatlar",
+        "count": 6
+      },
+      {
+        "name": "Sebze",
+        "count": 6
+      },
+      {
+        "name": "Şekersiz  Sakızlar",
+        "count": 5
+      },
+      {
+        "name": "Boza & Salep & Şerbet",
+        "count": 4
+      },
+      {
+        "name": "Pasta-cheesecake",
+        "count": 4
+      },
+      {
+        "name": "Ballı Mısır Gevr.",
+        "count": 3
+      },
+      {
+        "name": "Bisküviler",
+        "count": 3
+      },
+      {
+        "name": "Bulaşık Mak.deterjan&tablet & Kapsül&jel",
+        "count": 3
+      },
+      {
+        "name": "Helva",
+        "count": 3
+      },
+      {
+        "name": "Hurmalar",
+        "count": 3
+      },
+      {
+        "name": "Salatalık",
+        "count": 3
+      },
+      {
+        "name": "Yöresel Peynirler",
+        "count": 3
+      },
+      {
+        "name": "Ceviz",
+        "count": 2
+      },
+      {
+        "name": "Deterjan Ve Temizlik Ürünleri",
+        "count": 2
+      },
+      {
+        "name": "Hazır Yemekler",
+        "count": 2
+      },
+      {
+        "name": "Hediyeli Ürünler",
+        "count": 2
+      },
+      {
+        "name": "Beyaz Peynir Kültürlü",
+        "count": 1
+      },
+      {
+        "name": "Fırın Ürünleri",
+        "count": 1
+      },
+      {
+        "name": "Hırdavat&oto Grubu",
+        "count": 1
+      },
+      {
+        "name": "Hırdavat/nalburiye",
+        "count": 1
+      },
+      {
+        "name": "Kuruyemiş Açık",
+        "count": 1
+      },
+      {
+        "name": "Mısır",
+        "count": 1
+      },
+      {
+        "name": "Tuzlu Bisküvi",
+        "count": 1
+      },
+      {
+        "name": "Çay, Kahve Ve Toz Içecekler",
+        "count": 1
+      }
+    ],
+    "refined_quantity_unit": [
+      {
+        "name": "1 Adet",
+        "count": 23
+      },
+      {
+        "name": "3 Adet",
+        "count": 11
+      },
+      {
+        "name": "4 Adet",
+        "count": 8
+      },
+      {
+        "name": "5 Adet",
+        "count": 4
+      },
+      {
+        "name": "2 Adet",
+        "count": 2
+      },
+      {
+        "name": "6 Adet",
+        "count": 2
+      },
+      {
+        "name": "8 Adet",
+        "count": 2
+      },
+      {
+        "name": "10 Adet",
+        "count": 1
+      },
+      {
+        "name": "36 Adet",
+        "count": 1
+      }
+    ],
+    "main_category": [
+      {
+        "name": "Bisküvi ve Kraker",
+        "count": 542
+      },
+      {
+        "name": "Çikolata",
+        "count": 483
+      },
+      {
+        "name": "Sakız ve Şekerleme",
+        "count": 427
+      },
+      {
+        "name": "Kuruyemiş ve Kuru Meyve",
+        "count": 384
+      },
+      {
+        "name": "Gofret",
+        "count": 201
+      },
+      {
+        "name": "Dondurmalar",
+        "count": 172
+      },
+      {
+        "name": "Cips",
+        "count": 171
+      },
+      {
+        "name": "Tatlılar",
+        "count": 165
+      },
+      {
+        "name": "Kek",
+        "count": 147
+      }
+    ],
+    "refined_volume_weight": [
+      {
+        "name": "200 gr",
+        "count": 135
+      },
+      {
+        "name": "150 gr",
+        "count": 129
+      },
+      {
+        "name": "60 gr",
+        "count": 100
+      },
+      {
+        "name": "40 gr",
+        "count": 89
+      },
+      {
+        "name": "100 gr",
+        "count": 81
+      },
+      {
+        "name": "80 gr",
+        "count": 81
+      },
+      {
+        "name": "30 gr",
+        "count": 68
+      },
+      {
+        "name": "1 gr",
+        "count": 65
+      },
+      {
+        "name": "250 gr",
+        "count": 63
+      },
+      {
+        "name": "0.5 kg",
+        "count": 57
+      },
+      {
+        "name": "50 gr",
+        "count": 55
+      },
+      {
+        "name": "45 gr",
+        "count": 51
+      },
+      {
+        "name": "180 gr",
+        "count": 50
+      },
+      {
+        "name": "35 gr",
+        "count": 49
+      },
+      {
+        "name": "25 gr",
+        "count": 45
+      },
+      {
+        "name": "20 gr",
+        "count": 43
+      },
+      {
+        "name": "400 gr",
+        "count": 42
+      },
+      {
+        "name": "70 gr",
+        "count": 41
+      },
+      {
+        "name": "36 gr",
+        "count": 40
+      },
+      {
+        "name": "1 kg",
+        "count": 35
+      },
+      {
+        "name": "300 gr",
+        "count": 33
+      },
+      {
+        "name": "160 gr",
+        "count": 32
+      },
+      {
+        "name": "130 gr",
+        "count": 31
+      },
+      {
+        "name": "140 gr",
+        "count": 30
+      },
+      {
+        "name": "27 gr",
+        "count": 30
+      },
+      {
+        "name": "90 gr",
+        "count": 25
+      },
+      {
+        "name": "33 gr",
+        "count": 23
+      },
+      {
+        "name": "350 gr",
+        "count": 23
+      },
+      {
+        "name": "28 gr",
+        "count": 22
+      },
+      {
+        "name": "450 gr",
+        "count": 22
+      },
+      {
+        "name": "120 gr",
+        "count": 20
+      },
+      {
+        "name": "125 gr",
+        "count": 20
+      },
+      {
+        "name": "135 gr",
+        "count": 20
+      },
+      {
+        "name": "32 gr",
+        "count": 20
+      },
+      {
+        "name": "65 gr",
+        "count": 20
+      },
+      {
+        "name": "100 ml",
+        "count": 16
+      },
+      {
+        "name": "47 gr",
+        "count": 16
+      },
+      {
+        "name": "75 gr",
+        "count": 16
+      },
+      {
+        "name": "240 gr",
+        "count": 15
+      },
+      {
+        "name": "18 gr",
+        "count": 14
+      },
+      {
+        "name": "55 gr",
+        "count": 14
+      },
+      {
+        "name": "15 gr",
+        "count": 12
+      },
+      {
+        "name": "21 gr",
+        "count": 12
+      },
+      {
+        "name": "38 gr",
+        "count": 12
+      },
+      {
+        "name": "114 gr",
+        "count": 11
+      },
+      {
+        "name": "26 gr",
+        "count": 11
+      },
+      {
+        "name": "43 gr",
+        "count": 11
+      },
+      {
+        "name": "0.5 lt",
+        "count": 10
+      },
+      {
+        "name": "110 gr",
+        "count": 10
+      },
+      {
+        "name": "170 gr",
+        "count": 10
+      },
+      {
+        "name": "175 gr",
+        "count": 10
+      },
+      {
+        "name": "184 gr",
+        "count": 9
+      },
+      {
+        "name": "220 gr",
+        "count": 9
+      },
+      {
+        "name": "61 gr",
+        "count": 9
+      },
+      {
+        "name": "76 gr",
+        "count": 9
+      },
+      {
+        "name": "1 lt",
+        "count": 8
+      },
+      {
+        "name": "142 gr",
+        "count": 8
+      },
+      {
+        "name": "22 gr",
+        "count": 8
+      },
+      {
+        "name": "244 gr",
+        "count": 8
+      },
+      {
+        "name": "280 gr",
+        "count": 8
+      },
+      {
+        "name": "34 gr",
+        "count": 8
+      },
+      {
+        "name": "600 gr",
+        "count": 8
+      },
+      {
+        "name": "800 ml",
+        "count": 8
+      },
+      {
+        "name": "81 gr",
+        "count": 8
+      },
+      {
+        "name": "1 ml",
+        "count": 7
+      },
+      {
+        "name": "102 gr",
+        "count": 7
+      },
+      {
+        "name": "198 gr",
+        "count": 7
+      },
+      {
+        "name": "360 ml",
+        "count": 7
+      },
+      {
+        "name": "44 gr",
+        "count": 7
+      },
+      {
+        "name": "46 gr",
+        "count": 7
+      },
+      {
+        "name": "48 gr",
+        "count": 7
+      },
+      {
+        "name": "60 ml",
+        "count": 7
+      },
+      {
+        "name": "65 ml",
+        "count": 7
+      },
+      {
+        "name": "104 gr",
+        "count": 6
+      },
+      {
+        "name": "109 gr",
+        "count": 6
+      },
+      {
+        "name": "14 gr",
+        "count": 6
+      },
+      {
+        "name": "20 kg",
+        "count": 6
+      },
+      {
+        "name": "40 ml",
+        "count": 6
+      },
+      {
+        "name": "64 gr",
+        "count": 6
+      },
+      {
+        "name": "72 gr",
+        "count": 6
+      },
+      {
+        "name": "82 gr",
+        "count": 6
+      },
+      {
+        "name": "85 gr",
+        "count": 6
+      },
+      {
+        "name": "850 ml",
+        "count": 6
+      },
+      {
+        "name": "10 gr",
+        "count": 5
+      },
+      {
+        "name": "1000 kg",
+        "count": 5
+      },
+      {
+        "name": "105 gr",
+        "count": 5
+      },
+      {
+        "name": "105 ml",
+        "count": 5
+      },
+      {
+        "name": "107 gr",
+        "count": 5
+      },
+      {
+        "name": "117 gr",
+        "count": 5
+      },
+      {
+        "name": "130 ml",
+        "count": 5
+      },
+      {
+        "name": "140 ml",
+        "count": 5
+      },
+      {
+        "name": "165 gr",
+        "count": 5
+      },
+      {
+        "name": "182 gr",
+        "count": 5
+      },
+      {
+        "name": "210 gr",
+        "count": 5
+      },
+      {
+        "name": "23 kg",
+        "count": 5
+      },
+      {
+        "name": "244 kg",
+        "count": 5
+      },
+      {
+        "name": "246 gr",
+        "count": 5
+      },
+      {
+        "name": "360 gr",
+        "count": 5
+      },
+      {
+        "name": "375 gr",
+        "count": 5
+      },
+      {
+        "name": "39 gr",
+        "count": 5
+      }
+    ],
+    "brand": [
+      {
+        "name": "Ülker",
+        "count": 304
+      },
+      {
+        "name": "Eti",
+        "count": 177
+      },
+      {
+        "name": "Markasız",
+        "count": 81
+      },
+      {
+        "name": "Etı",
+        "count": 77
+      },
+      {
+        "name": "Algida",
+        "count": 67
+      },
+      {
+        "name": "Beyoğlu",
+        "count": 60
+      },
+      {
+        "name": "Torku",
+        "count": 54
+      },
+      {
+        "name": "Tkbf",
+        "count": 53
+      },
+      {
+        "name": "Çerezya",
+        "count": 53
+      },
+      {
+        "name": "Nestle",
+        "count": 51
+      },
+      {
+        "name": "Xroll",
+        "count": 49
+      },
+      {
+        "name": "Amigo",
+        "count": 41
+      },
+      {
+        "name": "Tadım",
+        "count": 41
+      },
+      {
+        "name": "Harıbo",
+        "count": 39
+      },
+      {
+        "name": "Carrefour",
+        "count": 35
+      },
+      {
+        "name": "Mılka",
+        "count": 31
+      },
+      {
+        "name": "Karmen",
+        "count": 28
+      },
+      {
+        "name": "Bonheur",
+        "count": 27
+      },
+      {
+        "name": "Simbat",
+        "count": 24
+      },
+      {
+        "name": "Migros",
+        "count": 22
+      },
+      {
+        "name": "Aldiva",
+        "count": 20
+      },
+      {
+        "name": "Carrefour Bio",
+        "count": 18
+      },
+      {
+        "name": "Çerezim",
+        "count": 18
+      },
+      {
+        "name": "Şölen",
+        "count": 18
+      },
+      {
+        "name": "Kahve Dünyası",
+        "count": 17
+      },
+      {
+        "name": "Magnum",
+        "count": 17
+      },
+      {
+        "name": "Tadelle",
+        "count": 17
+      },
+      {
+        "name": "Kent",
+        "count": 16
+      },
+      {
+        "name": "Ozmo",
+        "count": 16
+      },
+      {
+        "name": "Mis",
+        "count": 15
+      },
+      {
+        "name": "Oneo",
+        "count": 15
+      },
+      {
+        "name": "Patos",
+        "count": 15
+      },
+      {
+        "name": "Doruk",
+        "count": 14
+      },
+      {
+        "name": "Kınder",
+        "count": 14
+      },
+      {
+        "name": "Olıps",
+        "count": 14
+      },
+      {
+        "name": "Haribo",
+        "count": 13
+      },
+      {
+        "name": "Koska",
+        "count": 13
+      },
+      {
+        "name": "Samba",
+        "count": 13
+      },
+      {
+        "name": "Vince",
+        "count": 13
+      },
+      {
+        "name": "Buono",
+        "count": 12
+      },
+      {
+        "name": "Cino",
+        "count": 12
+      },
+      {
+        "name": "Falım",
+        "count": 12
+      },
+      {
+        "name": "Fırst",
+        "count": 12
+      },
+      {
+        "name": "Master Nut",
+        "count": 12
+      },
+      {
+        "name": "Züber",
+        "count": 12
+      },
+      {
+        "name": "Godıva",
+        "count": 11
+      },
+      {
+        "name": "Lays",
+        "count": 11
+      },
+      {
+        "name": "Peki",
+        "count": 11
+      },
+      {
+        "name": "Tatdo",
+        "count": 11
+      },
+      {
+        "name": "Çerezza",
+        "count": 11
+      },
+      {
+        "name": "Anı",
+        "count": 10
+      },
+      {
+        "name": "Bebeto",
+        "count": 10
+      },
+      {
+        "name": "Centro",
+        "count": 10
+      },
+      {
+        "name": "Dr. Oetker",
+        "count": 10
+      },
+      {
+        "name": "Evliya",
+        "count": 10
+      },
+      {
+        "name": "Lina",
+        "count": 10
+      },
+      {
+        "name": "Peyman Bahçeden",
+        "count": 10
+      },
+      {
+        "name": "Ruffles",
+        "count": 10
+      },
+      {
+        "name": "Çıtkırıldım",
+        "count": 10
+      },
+      {
+        "name": "Fellas",
+        "count": 9
+      },
+      {
+        "name": "First",
+        "count": 9
+      },
+      {
+        "name": "Jelıbon",
+        "count": 9
+      },
+      {
+        "name": "Kekspır",
+        "count": 9
+      },
+      {
+        "name": "Oreo",
+        "count": 9
+      },
+      {
+        "name": "Osmanoglu",
+        "count": 9
+      },
+      {
+        "name": "Oylum",
+        "count": 9
+      },
+      {
+        "name": "Tayaş",
+        "count": 9
+      },
+      {
+        "name": "Carte D'or",
+        "count": 8
+      },
+      {
+        "name": "Cheetos",
+        "count": 8
+      },
+      {
+        "name": "Cornetto",
+        "count": 8
+      },
+      {
+        "name": "Damak",
+        "count": 8
+      },
+      {
+        "name": "Doritos",
+        "count": 8
+      },
+      {
+        "name": "Ella",
+        "count": 8
+      },
+      {
+        "name": "Jox",
+        "count": 8
+      },
+      {
+        "name": "Nestle Nesfıt",
+        "count": 8
+      },
+      {
+        "name": "Patıswıss",
+        "count": 8
+      },
+      {
+        "name": "Pıt Pıt",
+        "count": 8
+      },
+      {
+        "name": "Susse",
+        "count": 8
+      },
+      {
+        "name": "Tempo",
+        "count": 8
+      },
+      {
+        "name": "Toblerone",
+        "count": 8
+      },
+      {
+        "name": "Boombastıc",
+        "count": 7
+      },
+      {
+        "name": "Cipso",
+        "count": 7
+      },
+      {
+        "name": "Hanımdan",
+        "count": 7
+      },
+      {
+        "name": "Luppo",
+        "count": 7
+      },
+      {
+        "name": "Vıvıdent",
+        "count": 7
+      },
+      {
+        "name": "Özsüt",
+        "count": 7
+      },
+      {
+        "name": "Biscolata",
+        "count": 6
+      },
+      {
+        "name": "Dorıtos",
+        "count": 6
+      },
+      {
+        "name": "Freedo",
+        "count": 6
+      },
+      {
+        "name": "Halis",
+        "count": 6
+      },
+      {
+        "name": "Lezztat",
+        "count": 6
+      },
+      {
+        "name": "Mentos",
+        "count": 6
+      },
+      {
+        "name": "Sbu",
+        "count": 6
+      },
+      {
+        "name": "Tkbr",
+        "count": 6
+      },
+      {
+        "name": "Twıx",
+        "count": 6
+      },
+      {
+        "name": "Bifa",
+        "count": 5
+      },
+      {
+        "name": "Danette",
+        "count": 5
+      },
+      {
+        "name": "Dovido",
+        "count": 5
+      },
+      {
+        "name": "Elit Çikolata",
+        "count": 5
+      },
+      {
+        "name": "Kara Sevda",
+        "count": 5
+      }
+    ],
+    "market_names": [
+      {
+        "name": "carrefour",
+        "count": 1104
+      },
+      {
+        "name": "a101",
+        "count": 973
+      },
+      {
+        "name": "migros",
+        "count": 656
+      },
+      {
+        "name": "sok",
+        "count": 518
+      },
+      {
+        "name": "tarim_kredi",
+        "count": 445
+      },
+      {
+        "name": "hakmar",
+        "count": 392
+      },
+      {
+        "name": "bim",
+        "count": 269
+      }
+    ]
+  }
+}

@@ -1,0 +1,589 @@
+{
+  "numberOfFound": 69,
+  "content": [
+    {
+      "id": "0000000000YLU",
+      "title": "Domates",
+      "brand": "Markasız",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1488890.jpg",
+      "categories": [
+        "Mevsi̇m Sebzeleri̇",
+        "Normal Se",
+        "Sebzeler",
+        "100102-sebzeler",
+        "10-meyve Sebze",
+        "Meyve Ve Sebzeler",
+        "Meyve Sebze",
+        "1001-meyve Sebzeler",
+        "Üretim Ürünleri Meyve Sebze",
+        "Meyve-sebze",
+        "Sebze",
+        "Domates",
+        "Normal Sebzeler"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "hakmar-5602",
+          "depotName": "Selimpaşa  Üsküdar",
+          "price": 29.5,
+          "marketAdi": "hakmar",
+          "percentage": 0,
+          "longitude": 29.019417,
+          "latitude": 41.019806,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "a101-4217",
+          "depotName": "Rıhtım Kadıköy Istanbul",
+          "price": 29.75,
+          "marketAdi": "a101",
+          "percentage": 0.84745765,
+          "longitude": 29.0264,
+          "latitude": 40.9941,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "tarim_kredi-5022",
+          "depotName": "Istanbul Kadıköy Market",
+          "price": 29.9,
+          "marketAdi": "tarim_kredi",
+          "percentage": 1.3559309,
+          "longitude": 29.04356,
+          "latitude": 40.9887,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "migros-8163",
+          "depotName": "Mjet Kadıköy Rıhtım Istanbul",
+          "price": 29.95,
+          "marketAdi": "migros",
+          "percentage": 1.5254263,
+          "longitude": 29.025434,
+          "latitude": 40.993183,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "bim-Q061",
+          "depotName": "Rıhtım kadıköy",
+          "price": 34.5,
+          "marketAdi": "bim",
+          "percentage": 16.949154,
+          "longitude": 29.022757,
+          "latitude": 40.988914,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "sok-1017",
+          "depotName": "Selimiye",
+          "price": 39.9,
+          "marketAdi": "sok",
+          "percentage": 35.254242,
+          "longitude": 29.01797,
+          "latitude": 41.010906,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000X3B",
+      "title": "Domates Pembe ",
+      "brand": "Markasız",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_213459.jpg",
+      "categories": [
+        "Normal Se",
+        "Mevsi̇m Sebzeleri̇",
+        "Meyvelerı Yenen Sebz",
+        "Meyve Ve Sebzeler",
+        "Sebzeler",
+        "Taze Gıdalar",
+        "Sebze",
+        "Normal Sebzeler",
+        "Domates",
+        "Meyve Ve Sebze"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "hakmar-5200",
+          "depotName": "Valide  Üsküdar",
+          "price": 39.5,
+          "marketAdi": "hakmar",
+          "percentage": 0,
+          "longitude": 29.031761,
+          "latitude": 41.018707,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000PZB",
+      "title": "Domates Salkım ",
+      "brand": "Markasız",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_127845.jpg",
+      "categories": [
+        "Normal Se",
+        "Mevsi̇m Sebzeleri̇",
+        "Meyvelerı Yenen Sebz",
+        "Meyve Ve Sebzeler",
+        "Sebzeler",
+        "Taze Gıdalar",
+        "Sebze",
+        "Normal Sebzeler",
+        "Domates",
+        "Meyve Ve Sebze"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "carrefour-5254",
+          "depotName": "Istanbul Üsküdar Salacak Mını",
+          "price": 36.9,
+          "marketAdi": "carrefour",
+          "percentage": 0,
+          "longitude": 29.011852,
+          "latitude": 41.018646,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "sok-1017",
+          "depotName": "Selimiye",
+          "price": 49.9,
+          "marketAdi": "sok",
+          "percentage": 35.23035,
+          "longitude": 29.01797,
+          "latitude": 41.010906,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "hakmar-5200",
+          "depotName": "Valide  Üsküdar",
+          "price": 49.95,
+          "marketAdi": "hakmar",
+          "percentage": 35.36585,
+          "longitude": 29.031761,
+          "latitude": 41.018707,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000OO1",
+      "title": "Domates Şeker",
+      "brand": "Markasız",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_206126.jpg",
+      "categories": [
+        "Mevsi̇m Sebzeleri̇",
+        "Meyve Ve Sebzeler",
+        "Sebzeler",
+        "Sebze",
+        "Domates"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "a101-4217",
+          "depotName": "Rıhtım Kadıköy Istanbul",
+          "price": 37,
+          "marketAdi": "a101",
+          "percentage": 0,
+          "longitude": 29.0264,
+          "latitude": 40.9941,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "00000000005K7",
+      "title": "Domates Kahvaltılık ",
+      "brand": "Sivas Birlik",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1433767.jpg",
+      "categories": [
+        "Normal Se",
+        "Meyve Ve Sebzeler",
+        "Normal Sebzeler"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "hakmar-5200",
+          "depotName": "Valide  Üsküdar",
+          "price": 69.95,
+          "marketAdi": "hakmar",
+          "percentage": 0,
+          "longitude": 29.031761,
+          "latitude": 41.018707,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    }
+  ],
+  "facetMap": {
+    "sub_category": [
+      {
+        "name": "Konserve Ve Baharatlar",
+        "count": 49
+      },
+      {
+        "name": "Sebze",
+        "count": 6
+      },
+      {
+        "name": "Biber",
+        "count": 3
+      },
+      {
+        "name": "Şeftali-nektari",
+        "count": 3
+      },
+      {
+        "name": "Tahıl Patlağı",
+        "count": 2
+      },
+      {
+        "name": "Bebe Bisküvisi",
+        "count": 1
+      },
+      {
+        "name": "Domates",
+        "count": 1
+      },
+      {
+        "name": "Kremalar",
+        "count": 1
+      },
+      {
+        "name": "Meyve",
+        "count": 1
+      },
+      {
+        "name": "Meyveli Içecek-aromalı Içecek",
+        "count": 1
+      },
+      {
+        "name": "Un Ve Unlu Mamuller",
+        "count": 1
+      }
+    ],
+    "refined_quantity_unit": [],
+    "main_category": [
+      {
+        "name": "Salça",
+        "count": 30
+      },
+      {
+        "name": "Sebze",
+        "count": 14
+      },
+      {
+        "name": "Konserve",
+        "count": 13
+      },
+      {
+        "name": "Hazır Gıda",
+        "count": 6
+      },
+      {
+        "name": "Bisküvi ve Kraker",
+        "count": 2
+      },
+      {
+        "name": "Cips",
+        "count": 1
+      },
+      {
+        "name": "Ekmek ve Unlu Mamüller",
+        "count": 1
+      },
+      {
+        "name": "Meyve Suyu",
+        "count": 1
+      },
+      {
+        "name": "Turşu",
+        "count": 1
+      }
+    ],
+    "refined_volume_weight": [
+      {
+        "name": "830 gr",
+        "count": 11
+      },
+      {
+        "name": "700 gr",
+        "count": 7
+      },
+      {
+        "name": "1 kg",
+        "count": 6
+      },
+      {
+        "name": "400 gr",
+        "count": 5
+      },
+      {
+        "name": "1 gr",
+        "count": 4
+      },
+      {
+        "name": "1.7 kg",
+        "count": 3
+      },
+      {
+        "name": "1500 kg",
+        "count": 3
+      },
+      {
+        "name": "250 gr",
+        "count": 3
+      },
+      {
+        "name": "0.5 kg",
+        "count": 2
+      },
+      {
+        "name": "250 ml",
+        "count": 2
+      },
+      {
+        "name": "560 gr",
+        "count": 2
+      },
+      {
+        "name": "685 gr",
+        "count": 2
+      },
+      {
+        "name": "1 lt",
+        "count": 1
+      },
+      {
+        "name": "100 gr",
+        "count": 1
+      },
+      {
+        "name": "110 gr",
+        "count": 1
+      },
+      {
+        "name": "160 gr",
+        "count": 1
+      },
+      {
+        "name": "1650 kg",
+        "count": 1
+      },
+      {
+        "name": "200 gr",
+        "count": 1
+      },
+      {
+        "name": "22 gr",
+        "count": 1
+      },
+      {
+        "name": "300 gr",
+        "count": 1
+      },
+      {
+        "name": "360 gr",
+        "count": 1
+      },
+      {
+        "name": "40 gr",
+        "count": 1
+      },
+      {
+        "name": "4500 kg",
+        "count": 1
+      },
+      {
+        "name": "65 gr",
+        "count": 1
+      },
+      {
+        "name": "650 gr",
+        "count": 1
+      },
+      {
+        "name": "67 ml",
+        "count": 1
+      },
+      {
+        "name": "680 gr",
+        "count": 1
+      },
+      {
+        "name": "69 gr",
+        "count": 1
+      },
+      {
+        "name": "710 gr",
+        "count": 1
+      },
+      {
+        "name": "720 gr",
+        "count": 1
+      },
+      {
+        "name": "800 gr",
+        "count": 1
+      }
+    ],
+    "brand": [
+      {
+        "name": "Markasız",
+        "count": 11
+      },
+      {
+        "name": "Tat",
+        "count": 10
+      },
+      {
+        "name": "Bizim Vatan",
+        "count": 5
+      },
+      {
+        "name": "Tukaş",
+        "count": 4
+      },
+      {
+        "name": "Kazova",
+        "count": 3
+      },
+      {
+        "name": "Knorr",
+        "count": 3
+      },
+      {
+        "name": "Öncü",
+        "count": 3
+      },
+      {
+        "name": "Carrefour",
+        "count": 2
+      },
+      {
+        "name": "Demko",
+        "count": 2
+      },
+      {
+        "name": "Sultan",
+        "count": 2
+      },
+      {
+        "name": "Tamek",
+        "count": 2
+      },
+      {
+        "name": "Tkbf",
+        "count": 2
+      },
+      {
+        "name": "Alka",
+        "count": 1
+      },
+      {
+        "name": "Annemin Mutfağı",
+        "count": 1
+      },
+      {
+        "name": "Burcu",
+        "count": 1
+      },
+      {
+        "name": "Cappy",
+        "count": 1
+      },
+      {
+        "name": "Domates Şeker 250",
+        "count": 1
+      },
+      {
+        "name": "Form",
+        "count": 1
+      },
+      {
+        "name": "Gurme 212",
+        "count": 1
+      },
+      {
+        "name": "Gusdo",
+        "count": 1
+      },
+      {
+        "name": "Ipek",
+        "count": 1
+      },
+      {
+        "name": "Ipek Köy",
+        "count": 1
+      },
+      {
+        "name": "Migros",
+        "count": 1
+      },
+      {
+        "name": "Piyale",
+        "count": 1
+      },
+      {
+        "name": "Sivas Birlik",
+        "count": 1
+      },
+      {
+        "name": "Tkan",
+        "count": 1
+      },
+      {
+        "name": "Unistanbul",
+        "count": 1
+      },
+      {
+        "name": "Ustasından",
+        "count": 1
+      },
+      {
+        "name": "Yerlı",
+        "count": 1
+      },
+      {
+        "name": "Yurda",
+        "count": 1
+      },
+      {
+        "name": "Çerezza",
+        "count": 1
+      },
+      {
+        "name": "Çokça",
+        "count": 1
+      }
+    ],
+    "market_names": [
+      {
+        "name": "migros",
+        "count": 33
+      },
+      {
+        "name": "carrefour",
+        "count": 28
+      },
+      {
+        "name": "sok",
+        "count": 19
+      },
+      {
+        "name": "a101",
+        "count": 18
+      },
+      {
+        "name": "hakmar",
+        "count": 13
+      },
+      {
+        "name": "bim",
+        "count": 8
+      },
+      {
+        "name": "tarim_kredi",
+        "count": 8
+      }
+    ]
+  }
+}

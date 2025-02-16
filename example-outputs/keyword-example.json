@@ -1,0 +1,661 @@
+{
+  "numberOfFound": 41,
+  "content": [
+    {
+      "id": "00000000012XH",
+      "title": "Muz ithal",
+      "brand": "Markasız",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_32716.jpg",
+      "categories": [
+        "10-meyve Sebze",
+        "Meyve Ve Sebzeler",
+        "Meyveler",
+        "Muz",
+        "1001-meyve Sebzeler",
+        "Muz Ithal",
+        "Egzoti̇k Meyveler",
+        "Taze Gıdalar",
+        "100101-meyveler",
+        "Meyve",
+        "Meyve Ve Sebze",
+        "Tropıkal Meyve"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "a101-5407",
+          "depotName": "Selimiye Üsküdar Istanbul",
+          "price": 69.5,
+          "marketAdi": "a101",
+          "percentage": 0,
+          "longitude": 29.018433,
+          "latitude": 41.011513,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "bim-Q061",
+          "depotName": "Rıhtım kadıköy",
+          "price": 79.5,
+          "marketAdi": "bim",
+          "percentage": 14.38849,
+          "longitude": 29.022757,
+          "latitude": 40.988914,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "carrefour-5358",
+          "depotName": "Istanbul Kadıköy Rıhtım Reşıt",
+          "price": 99.9,
+          "marketAdi": "carrefour",
+          "percentage": 43.74101,
+          "longitude": 29.02671,
+          "latitude": 40.99276,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000XVU",
+      "title": "Muz Yerli",
+      "brand": "Markasız",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_99450.jpg",
+      "categories": [
+        "100101-meyveler",
+        "Normal Meyveler",
+        "10-meyve Sebze",
+        "Meyve Ve Sebzeler",
+        "Meyveler",
+        "Muz",
+        "Meyve Sebze",
+        "1001-meyve Sebzeler",
+        "Meyve-sebze",
+        "Taze Gıdalar",
+        "Egzoti̇k Meyveler",
+        "Normal Me",
+        "Meyve",
+        "Meyve Ve Sebze",
+        "Tropıkal Meyve",
+        "Muz Yerli"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "sok-1017",
+          "depotName": "Selimiye",
+          "price": 66.9,
+          "marketAdi": "sok",
+          "percentage": 0,
+          "longitude": 29.01797,
+          "latitude": 41.010906,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "bim-Q061",
+          "depotName": "Rıhtım kadıköy",
+          "price": 67,
+          "marketAdi": "bim",
+          "percentage": 0.14947455,
+          "longitude": 29.022757,
+          "latitude": 40.988914,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "tarim_kredi-5022",
+          "depotName": "Istanbul Kadıköy Market",
+          "price": 69.9,
+          "marketAdi": "tarim_kredi",
+          "percentage": 4.484305,
+          "longitude": 29.04356,
+          "latitude": 40.9887,
+          "indexTime": "16.02.2025 12:08"
+        },
+        {
+          "depotId": "hakmar-5200",
+          "depotName": "Valide  Üsküdar",
+          "price": 79.95,
+          "marketAdi": "hakmar",
+          "percentage": 19.50672,
+          "longitude": 29.031761,
+          "latitude": 41.018707,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "000000000099P",
+      "title": "Muz Ithal ",
+      "brand": "Sivas Birlik",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_32716.jpg",
+      "categories": [
+        "Meyve Ve Sebzeler",
+        "Normal Meyveler",
+        "Normal Me"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "hakmar-5200",
+          "depotName": "Valide  Üsküdar",
+          "price": 89.5,
+          "marketAdi": "hakmar",
+          "percentage": 0,
+          "longitude": 29.031761,
+          "latitude": 41.018707,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "000000000112A",
+      "title": "Gofret Muz Aromalı 30 gr Togo",
+      "brand": "Beyoğlu",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_1812263.jpg",
+      "categories": [
+        "Gofretler",
+        "Bi̇sküvi̇, Kek Ve Mamalar",
+        "Kaplamalı Gofretler"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "a101-4217",
+          "depotName": "Rıhtım Kadıköy Istanbul",
+          "price": 5,
+          "marketAdi": "a101",
+          "percentage": 0,
+          "longitude": 29.0264,
+          "latitude": 40.9941,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    },
+    {
+      "id": "0000000000030",
+      "title": "Süt Muz Aromalı 200 ml Göynük",
+      "brand": "Göynük",
+      "imageUrl": "https://cdn.cimri.io/market/500x500/-_639749.jpg",
+      "categories": [
+        "Süt Ve Süt Ürünleri",
+        "Aromalı S",
+        "Aromalı Sütler"
+      ],
+      "productDepotInfoList": [
+        {
+          "depotId": "hakmar-5200",
+          "depotName": "Valide  Üsküdar",
+          "price": 10.75,
+          "marketAdi": "hakmar",
+          "percentage": 0,
+          "longitude": 29.031761,
+          "latitude": 41.018707,
+          "indexTime": "16.02.2025 12:08"
+        }
+      ]
+    }
+  ],
+  "facetMap": {
+    "sub_category": [
+      {
+        "name": "Süt",
+        "count": 4
+      },
+      {
+        "name": "Şekerlemeler",
+        "count": 4
+      },
+      {
+        "name": "Bebek Gıdaları",
+        "count": 3
+      },
+      {
+        "name": "Kaplamasız Gofretler",
+        "count": 3
+      },
+      {
+        "name": "Un Ve Unlu Mamuller",
+        "count": 3
+      },
+      {
+        "name": "Aromalı Sakızlar",
+        "count": 2
+      },
+      {
+        "name": "Dolgulu Kekler",
+        "count": 2
+      },
+      {
+        "name": "Ev Tipi Ürünler",
+        "count": 2
+      },
+      {
+        "name": "Meyve",
+        "count": 2
+      },
+      {
+        "name": "Çikolatalar",
+        "count": 2
+      },
+      {
+        "name": "Büyüme Yoğurdu",
+        "count": 1
+      },
+      {
+        "name": "Fonksiyonel Yoğurt",
+        "count": 1
+      },
+      {
+        "name": "Kaplamalı Gofretler",
+        "count": 1
+      },
+      {
+        "name": "Kremalı Bisküvi",
+        "count": 1
+      },
+      {
+        "name": "Kuruyemişler",
+        "count": 1
+      },
+      {
+        "name": "Limonata",
+        "count": 1
+      },
+      {
+        "name": "Pastörize Süt",
+        "count": 1
+      },
+      {
+        "name": "Puding Tatlı",
+        "count": 1
+      },
+      {
+        "name": "Reçetesiz Sağlık Mamulleri",
+        "count": 1
+      },
+      {
+        "name": "Sebze",
+        "count": 1
+      },
+      {
+        "name": "Sütlü Tatlı",
+        "count": 1
+      },
+      {
+        "name": "Tam Yağlı Süt",
+        "count": 1
+      },
+      {
+        "name": "Tatlılar",
+        "count": 1
+      },
+      {
+        "name": "Toz Içecekler",
+        "count": 1
+      }
+    ],
+    "refined_quantity_unit": [],
+    "main_category": [
+      {
+        "name": "Sakız ve Şekerleme",
+        "count": 7
+      },
+      {
+        "name": "Süt",
+        "count": 6
+      },
+      {
+        "name": "Gofret",
+        "count": 5
+      },
+      {
+        "name": "Bebek Mamaları",
+        "count": 3
+      },
+      {
+        "name": "Meyve",
+        "count": 3
+      },
+      {
+        "name": "Bisküvi ve Kraker",
+        "count": 2
+      },
+      {
+        "name": "Kahvaltılık Gevrek Bar ve Granola",
+        "count": 2
+      },
+      {
+        "name": "Tatlılar",
+        "count": 2
+      },
+      {
+        "name": "Yoğurt",
+        "count": 2
+      },
+      {
+        "name": "Diğer Ürünler",
+        "count": 1
+      },
+      {
+        "name": "Dondurmalar",
+        "count": 1
+      },
+      {
+        "name": "Gazsız İçecekler",
+        "count": 1
+      },
+      {
+        "name": "Kek",
+        "count": 1
+      },
+      {
+        "name": "Kuruyemiş ve Kuru Meyve",
+        "count": 1
+      },
+      {
+        "name": "Meyve Suyu",
+        "count": 1
+      },
+      {
+        "name": "Pasta Malzemeleri",
+        "count": 1
+      }
+    ],
+    "refined_volume_weight": [
+      {
+        "name": "25 gr",
+        "count": 3
+      },
+      {
+        "name": "1 gr",
+        "count": 2
+      },
+      {
+        "name": "1 kg",
+        "count": 2
+      },
+      {
+        "name": "200 ml",
+        "count": 2
+      },
+      {
+        "name": "850 ml",
+        "count": 2
+      },
+      {
+        "name": "90 gr",
+        "count": 2
+      },
+      {
+        "name": "0.5 lt",
+        "count": 1
+      },
+      {
+        "name": "1 ml",
+        "count": 1
+      },
+      {
+        "name": "1080 lt",
+        "count": 1
+      },
+      {
+        "name": "112 gr",
+        "count": 1
+      },
+      {
+        "name": "114 gr",
+        "count": 1
+      },
+      {
+        "name": "120 gr",
+        "count": 1
+      },
+      {
+        "name": "125 gr",
+        "count": 1
+      },
+      {
+        "name": "150 gr",
+        "count": 1
+      },
+      {
+        "name": "150 kg",
+        "count": 1
+      },
+      {
+        "name": "17 gr",
+        "count": 1
+      },
+      {
+        "name": "180 gr",
+        "count": 1
+      },
+      {
+        "name": "180 ml",
+        "count": 1
+      },
+      {
+        "name": "20 kg",
+        "count": 1
+      },
+      {
+        "name": "210 gr",
+        "count": 1
+      },
+      {
+        "name": "244 kg",
+        "count": 1
+      },
+      {
+        "name": "26 gr",
+        "count": 1
+      },
+      {
+        "name": "27 gr",
+        "count": 1
+      },
+      {
+        "name": "270 gr",
+        "count": 1
+      },
+      {
+        "name": "280 gr",
+        "count": 1
+      },
+      {
+        "name": "30 gr",
+        "count": 1
+      },
+      {
+        "name": "310 ml",
+        "count": 1
+      },
+      {
+        "name": "35 ml",
+        "count": 1
+      },
+      {
+        "name": "39 gr",
+        "count": 1
+      },
+      {
+        "name": "40 ml",
+        "count": 1
+      },
+      {
+        "name": "45 gr",
+        "count": 1
+      },
+      {
+        "name": "66 gr",
+        "count": 1
+      },
+      {
+        "name": "76 gr",
+        "count": 1
+      },
+      {
+        "name": "81 gr",
+        "count": 1
+      }
+    ],
+    "brand": [
+      {
+        "name": "Ülker",
+        "count": 3
+      },
+      {
+        "name": "Bigbabol",
+        "count": 2
+      },
+      {
+        "name": "Danone",
+        "count": 2
+      },
+      {
+        "name": "Eti",
+        "count": 2
+      },
+      {
+        "name": "Gerber",
+        "count": 2
+      },
+      {
+        "name": "Markasız",
+        "count": 2
+      },
+      {
+        "name": "Xroll",
+        "count": 2
+      },
+      {
+        "name": "Actıvıa",
+        "count": 1
+      },
+      {
+        "name": "Algida",
+        "count": 1
+      },
+      {
+        "name": "Artmac",
+        "count": 1
+      },
+      {
+        "name": "Beyoğlu",
+        "count": 1
+      },
+      {
+        "name": "Carte D'or",
+        "count": 1
+      },
+      {
+        "name": "Corny",
+        "count": 1
+      },
+      {
+        "name": "Daphne",
+        "count": 1
+      },
+      {
+        "name": "Delly",
+        "count": 1
+      },
+      {
+        "name": "Dimes",
+        "count": 1
+      },
+      {
+        "name": "Dost",
+        "count": 1
+      },
+      {
+        "name": "Dovido",
+        "count": 1
+      },
+      {
+        "name": "Dr.oetker",
+        "count": 1
+      },
+      {
+        "name": "Etı",
+        "count": 1
+      },
+      {
+        "name": "Fellas",
+        "count": 1
+      },
+      {
+        "name": "Göynük",
+        "count": 1
+      },
+      {
+        "name": "Milkten",
+        "count": 1
+      },
+      {
+        "name": "Mılupa",
+        "count": 1
+      },
+      {
+        "name": "Nesquık",
+        "count": 1
+      },
+      {
+        "name": "Oneo",
+        "count": 1
+      },
+      {
+        "name": "Pınar",
+        "count": 1
+      },
+      {
+        "name": "Sivas Birlik",
+        "count": 1
+      },
+      {
+        "name": "Sıpsevdı",
+        "count": 1
+      },
+      {
+        "name": "Tkbf",
+        "count": 1
+      },
+      {
+        "name": "Torku",
+        "count": 1
+      },
+      {
+        "name": "Toy Joy",
+        "count": 1
+      },
+      {
+        "name": "Şıpsevdi",
+        "count": 1
+      }
+    ],
+    "market_names": [
+      {
+        "name": "carrefour",
+        "count": 20
+      },
+      {
+        "name": "a101",
+        "count": 17
+      },
+      {
+        "name": "migros",
+        "count": 9
+      },
+      {
+        "name": "sok",
+        "count": 6
+      },
+      {
+        "name": "bim",
+        "count": 5
+      },
+      {
+        "name": "tarim_kredi",
+        "count": 5
+      },
+      {
+        "name": "hakmar",
+        "count": 4
+      }
+    ]
+  }
+}
